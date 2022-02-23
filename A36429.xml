@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tobits book a lesson appointed for Lent ...</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36429</idno>
+            <idno type="STC">Wing D2016</idno>
+            <idno type="STC">ESTC R29374</idno>
+            <idno type="EEBO-CITATION">11081082</idno>
+            <idno type="OCLC">ocm 11081082</idno>
+            <idno type="VID">46301</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36429)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46301)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1422:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tobits book a lesson appointed for Lent ...</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bound and filmed following D2019.</note>
+                  <note>Signed at end: From the Lady Eleanor.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:46301:1"/>
+               <pb facs="tcp:46301:1"/>
+THE VVrit of Reſtitution: By the Lady ELEANOR.</p>
+            <q>
+               <bibl>PSAL. &amp;c.</bibl>
+               <p>
+                  <hi>Be wiſe now therefore, O ye Kings; Be learned ye that are Iudges of the earth.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>ACTS 3. 21.</bibl>
+               <p>
+                  <hi>Whom the Heaven muſt receive, till the times of Reſtitution of all things which God hath spoken by the mouth of all his Prophets ſince the world began.</hi>
+               </p>
+            </q>
+            <p>Printed in the Year 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46301:2"/>
+            <pb n="1" facs="tcp:46301:2"/>
+            <head>THE VVrit of Reſtitution:</head>
+            <byline>BY The Lady <hi>ELEANOR.</hi>
+            </byline>
+            <p>ANd now in this his cauſe, <hi>the Iudge of all the earth, Prince of the Kings of the earth,</hi> a caſe wherein all con<g ref="char:EOLhyphen"/>cerned; theſe are to pray three, who here ſit in his place Iudges: Give me leave to ſpeak, and ſhew you a my<g ref="char:EOLhyphen"/>ſtery, from this writ <hi>Amoveas ma<g ref="char:EOLhyphen"/>nus,</hi> defended by the happy Mr. <hi>May<g ref="char:EOLhyphen"/>nard,</hi> notwithſtanding oppoſed by Mr. Solicitor, with S. <hi>John, not know<g ref="char:EOLhyphen"/>ing what Spirit he's of.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:46301:3"/>
+Before whow this day, the day of Iudgements figure, ſhewing by rea<g ref="char:EOLhyphen"/>ſon of a writ of Error, not executable, three ſtand charged with contempt of the Court, pleading <hi>Ignorance,</hi> notwithſtanding the aforeſaid <hi>Amove<g ref="char:EOLhyphen"/>as manus</hi> writ being executed (as it were) the <hi>forbidden fruit</hi> taſted un<g ref="char:EOLhyphen"/>timely; theſe men yet each diſ<g ref="char:EOLhyphen"/>charged and acquitted: as let it nei<g ref="char:EOLhyphen"/>ther be reputed impoſsible, how much oppoſed ſoever by others, for <hi>All to be ſaved at laſt, when the utmoſt mite or mi<g ref="char:EOLhyphen"/>nute ſatisfied</hi> or expired, the worſt of reprobates not excepted, in his time whoſe immenſe mercy inſcrutable: this is the argument, Againſt whom no writ of Error feiſible either or poſ<g ref="char:EOLhyphen"/>ſible.</p>
+            <p>
+               <hi>Who ſaw every thing very good at firſt</hi>
+               <pb n="3" facs="tcp:46301:3"/>
+               <hi>made by him,</hi> reduced to be no doubt to the ſame eſtate, as holds good from that <hi>of duſt return to duſt,</hi> every thing to the place from whence it came; faln An<g ref="char:EOLhyphen"/>gels and men reſtored every one, not left a hoof, &amp;c. or loſt of that kinde bearing his Image.</p>
+            <p>Of which general deliverance well underſtood to be an Article of the Chriſtian Faith, famous <hi>Origen,</hi> from whoſe judgment other fathers erring, forced were to erect a Purgatory for Saints, that <hi>Babel</hi> edifice of theirs; of whom the aforeſaid ancient father, the worſt they could ſay of him was, <hi>As he did worſt of any when he wrote ill, ſo exceeded all men when he did well.</hi>
+            </p>
+            <p>And ſo proceeding with this re<g ref="char:EOLhyphen"/>ported Caſe of this days Hearing, where the fiery adverſary upon their
+<pb n="4" facs="tcp:46301:4"/>
+ſurmiſings, preſsing for a preſent ſen<g ref="char:EOLhyphen"/>tence, before the accuſed heard or anſ<g ref="char:EOLhyphen"/>wering, charg'd, that although moved in open Court ſuch a writ, the <hi>Amoveas manus</hi> to be reſpited<hi>:</hi> and according<g ref="char:EOLhyphen"/>ly a <hi>Superſedis</hi> iſſued out, delivered to the Sheriff then in being; the Tenants nevertheleſs outed of poſſeſsion by the now under-Sheriff of that county about three moneths ago: whereup<g ref="char:EOLhyphen"/>on he cald and appearing, demanded of whom, how thoſe doors came to be opened, denied not what he had done by vertue of ſuch a ſealed writ, by ſuch a Solicitor brought to him; as for other writs concerning them, pleads <hi>Ignorance:</hi> One <hi>Pomfred</hi> by name, <hi>(alias Pomum)</hi> ſurprized in ſtate of inocency, like her <hi>firſt in the tranſgreſ<g ref="char:EOLhyphen"/>ſion;</hi> (for purſuing which Allegory
+<pb n="5" facs="tcp:46301:4"/>
+thus) ſhewing one <hi>Maſsingal</hi> cald, pleading ignora<g ref="char:cmbAbbrStroke">̄</g>ce too as the man lay<g ref="char:EOLhyphen"/>ing the fault on <hi>Eve;</hi> he (ſome three years ſince in that Office) onely had a <hi>Superſedis,</hi> of what validity now he knows not; for other writ, none came to his hand.</p>
+            <p>Alſo <hi>Jo: Rand</hi> Solicitor cald, he ap<g ref="char:EOLhyphen"/>pears, no yong Fox, not to be foold with pocket Errors, refers to the Iud<g ref="char:EOLhyphen"/>ges, whether year after year that writ like to be of much force, brought be<g ref="char:EOLhyphen"/>force ſuch and ſuch Officers; namely the Treaſurer, &amp;c. when as in being none ſuch, or like to be: And ſo this the Epilogue or end of it, their ſtale Errors being quaſht; the writ ſtands good for taking off or removing his Majeſties unhealing hands, his Te<g ref="char:EOLhyphen"/>nants caſhier'd; moreover for ſtren<g ref="char:EOLhyphen"/>gthning
+<pb n="6" facs="tcp:46301:5"/>
+which, another writ, a <hi>Writ of Reſtitution</hi> produced, brought in COURT, ſtops the Lyons mouthes, forced to put up their pipes, as let it happen to the enemie of <hi>Ge<g ref="char:EOLhyphen"/>neral Reſtitution,</hi> ſent to that parable of <hi>the unnatural elder Brother towards his own fleſh and blood,</hi> Luke; and <hi>murmu<g ref="char:EOLhyphen"/>ring laborers, becauſe their fellows mads partakers with them;</hi> endleſs unmer<g ref="char:EOLhyphen"/>cifulnes thereof to bid others beware.</p>
+            <p>And here to make an end with what penance impoſed on thoſe three for a preſumption of that nature; theſe a touch of it: The under She<g ref="char:EOLhyphen"/>riff <hi>Pomfred,</hi> ſomewhat of a low pitch, he never to aſpire or take upon him the ſtate or ſtile of a high Sheriff; the other ſometime in the ſame im<g ref="char:EOLhyphen"/>ployment or Office, <hi>Maſsingal</hi> to re<g ref="char:EOLhyphen"/>turn
+<pb n="7" facs="tcp:46301:5"/>
+to his domeſtick function or cal<g ref="char:EOLhyphen"/>ling deſerting former dainties. The honeſt poor Solicit' <hi>J: Rand</hi> as for him unto other Solicitors an example his lot, beſides to pinch himſelf with hard and thin fare, never to attempt the Kings Solicitors place, or St. <hi>John</hi> to be cald like the wandring Iew.</p>
+            <p>And ſo farther, no jeſting matter neither of mean conſequence, where like Twins, this finiſhed tedious Law Suit in Trinity term; and Gods word both ſympathizing or joyned in wed<g ref="char:EOLhyphen"/>lock, like the bleſſed Virgin and juſt <hi>Joſeph</hi> Couſins, though abruptly in brevities behalf handled or penn'd, preſaging without doubt, maugre the old Serpents plotting with his ſmooth outſide, through the holy Ghoſts po<g ref="char:EOLhyphen"/>wer, the third perſon in Trinity, long ſilent
+<gap reason="missing" extent="4 pages">
+                  <desc>〈4 pages missing〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:46301:6"/>
+for unexpected <hi>Gheſts</hi> ſuch. His Fa<g ref="char:EOLhyphen"/>ther meeting him, by whom healed forthwith: forerunner of the ſtum<g ref="char:EOLhyphen"/>bling Age ſignificant <hi>dicttates;</hi> on the future of a ſupernatural bleſsing: when ſwallowed up in diſpare, at their wits end.</p>
+            <p>According to whoſe expreſs charge obſerved, not to take a ſtrange wo<g ref="char:EOLhyphen"/>man to wife. But of his people one of a holy deſcent: withal above o<g ref="char:EOLhyphen"/>thers, namely of <hi>PRIDE</hi> to be<g ref="char:EOLhyphen"/>ware: his <hi>ſeed</hi> that they might inhe<g ref="char:EOLhyphen"/>rit the <hi>Land.</hi> Arrogancy (not un<g ref="char:EOLhyphen"/>known) the <hi>Mother of want,</hi> inſepa<g ref="char:EOLhyphen"/>rably joyned with a ſervile condition. Concluding with the <hi>beatifical Viſion</hi> the true healing <hi>Angel,</hi> diſcovering himſelf unto them: one of the ſeven <hi>Angels</hi> or <hi>Spirits</hi> in preſence of the
+<pb n="13" facs="tcp:46301:6"/>
+               <hi>Throne:</hi> preſents the Prayers of the <hi>Saints</hi> (to wit) in reference to the <hi>Sabbath,</hi> alludes to the <hi>Sabbatical Century. Raphael</hi> ſignifying <hi>The Medicine of God.</hi>
+            </p>
+            <p>As his vigilent parents for his re<g ref="char:EOLhyphen"/>turn, alſo to watch all: So from whoſe ſtumbling mentioned in what obſcurity the laſt days. Dreaming of ſuch anointings as much or ſuperna<g ref="char:EOLhyphen"/>tural <hi>participations.</hi>
+            </p>
+            <p>His <hi>Grave</hi> when as prepared abroad and at home both: their ſon by whom ſhe conceived (as it were) re<g ref="char:EOLhyphen"/>turned into a <hi>New World:</hi> ſuch a change cloſed with Father <hi>Tobias</hi> Trumpets Alarm or Prayer<hi>:</hi> by the <hi>Angel</hi> preferred, withal pointing to his cloſe <hi>Impriſonment</hi> in the <hi>Whales womb,</hi> three days in <hi>Travel</hi> of him<hi>:</hi>
+               <pb n="14" facs="tcp:46301:7"/>
+heard whoſe cry out of the <hi>Deep,</hi> who acknowledges brings up from <hi>Hell, &amp;c.</hi>
+            </p>
+            <p>And <hi>Hell</hi> and the <hi>Grave,</hi> one and the ſame word <hi>Gehenna</hi> expreſsing both as in that ſimilitude from un<g ref="char:EOLhyphen"/>likeneſs.</p>
+            <p>
+               <hi>And in</hi> Adam <hi>as all died, ſo in Chriſt all made alive,</hi> Cor. 15. <hi>O the depth of the wiſdom and knowledge of God.</hi> By the Ancients <hi>Origin, Ter<g ref="char:EOLhyphen"/>tullian</hi> and others: no queſtion made thereof <hi>with whom all things poſsible,</hi> but to be implacable abſolutely.</p>
+            <p>And ſo much for theſe, the <hi>chil<g ref="char:EOLhyphen"/>drens teeth not ſet an edge for the Fa<g ref="char:EOLhyphen"/>thers default. Captive Angels</hi> put in<g ref="char:EOLhyphen"/>to the <hi>Liſt.</hi> The word <hi>Everlaſting,</hi> That canſell'd alſo being determin<g ref="char:EOLhyphen"/>able ſignifying <hi>Ages:</hi> and farther,
+<pb n="15" facs="tcp:46301:7"/>
+paſsing for <hi>ad infinitum.</hi> VVhen as ſpared in tender conſideration of one <hi>Heathen City,</hi> wherein ſo many thou<g ref="char:EOLhyphen"/>ſands diſcerning not the <hi>right Hand</hi> from the <hi>left.</hi> And <hi>Eve</hi> hers as a thou<g ref="char:EOLhyphen"/>ſand for one how much more ſpot<g ref="char:EOLhyphen"/>leſs in that nature. Then why thus incenſed our <hi>JONASES</hi> againſt them <hi>Abraham</hi> ſtiles <hi>Sons</hi> worſe then annihilated a million of times, whoſe love a thouſand times ſurmounts his hate: By that <hi>Jewiſh</hi> envious elder Brother as figured, expoſtulating with his Father, <hi>&amp;c.</hi> where in truth a <hi>prefixt</hi> ſpace of <hi>time</hi> ſignified, more proper then of place fixt, <hi>&amp;c.</hi>
+            </p>
+            <p>Prayed <hi>O ye ſinners, therefore re<g ref="char:EOLhyphen"/>pent, turn and do Juſtice, ſhew mercy, who knows whether he may extend com<g ref="char:EOLhyphen"/>miſeration to this ſinful City:</hi> as in be<g ref="char:EOLhyphen"/>half
+<pb n="16" facs="tcp:46301:8"/>
+of thoſe <hi>Innocents,</hi> whoſe <hi>ſit<g ref="char:EOLhyphen"/>tuation</hi> not far from <hi>Paradice.</hi>
+            </p>
+            <p>As by the <hi>Fiſh</hi> taken in <hi>Tygris Ri<g ref="char:EOLhyphen"/>ver</hi> of ſuch vertue, <hi>&amp;c. O make ye friends of the unrighteous Mammon, That they may receive you into everlaſt<g ref="char:EOLhyphen"/>ing Habitations:</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pointing to the tranſitory whereon ſet up their reſt, all <hi>dote.</hi> So finiſhed his magnificat <hi>Tobias,</hi> that <hi>Brides</hi> incomparable <hi>Luſtre</hi> or <hi>preparation: New Jeruſa<g ref="char:EOLhyphen"/>lems</hi> precious <hi>Edifice</hi> ſo raviſhed with it.</p>
+            <trailer>
+               <hi>From the Lady</hi> Eleanor.</trailer>
+            <closer/>
+            <postscript>
+               <p>Tobias ſignifying good, for Good-Friday.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46301:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
